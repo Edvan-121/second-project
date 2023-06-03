@@ -1,23 +1,23 @@
 h5 {
-  background-color: blue;
+  background-color: rgb(241, 221, 128);
 }
 
 button {
-  background-color: rgb(172, 0, 0);
+  background-color: rgba(241, 210, 32, 0.76);
   font-size: 20px;
 }
 
 #titulo {
   font-size: 100px;
-  background: rgb(241, 32, 32);
+  background: rgba(241, 210, 32, 0.76);
 }
 
 .email {
-  background-color: rgb(172, 0, 0);
+  background-color: rgba(241, 210, 32, 0.76);
 }
 
 body {
-  background-color: rgb(168, 168, 168);
+  background-color: rgb(241, 221, 128);
 }
   
 header {
