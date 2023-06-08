@@ -1,10 +1,19 @@
-h5 {
-  background-color: rgb(241, 221, 128);
+*{margin: 1; padding: 2;}
+
+h5,h6,h1,h2,h3,h4 {
+  background-color: rgba(236, 209, 88, 0.733);
+}
+
+h1{
+  margin: 0;
 }
 
 button {
   background-color: rgba(241, 210, 32, 0.76);
   font-size: 20px;
+  color: black;
+  font:
+
 }
 
 #titulo {
@@ -18,6 +27,7 @@ button {
 
 body {
   background-color: rgb(241, 221, 128);
+  
 }
   
 header {
@@ -27,4 +37,26 @@ header {
 
 .nav-bar {
   margin-bottom: 10px;
+}
+
+.titulo2{
+  background-color: rgba(241, 210, 32, 0.76);
+  font-size: 25px;
+}
+
+.whatsapp-info{
+  font-size: 18px;
+  background-position: relative;
+  left: 0;
+  float: right;
+}
+
+.menu-complete{
+  display: inline-block;
+}
+
+.footer{
+  position: relative;
+  left: 1px;
+
 }
