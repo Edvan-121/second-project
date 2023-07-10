@@ -26,8 +26,10 @@ button {
 }
 
 body {
-  background-color: rgb(241, 221, 128);
-  
+  background-image: url(https://lh3.googleusercontent.com/p/AF1QipMHc8mncQpSj-JGiIYZsqJfMc-FibnNjWL36GOK=s1360-w1360-h1020);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
 }
   
 header {
