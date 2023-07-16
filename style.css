@@ -1,6 +1,6 @@
 *{margin: 1; padding: 2;}
 
-h5,h6,h1,h2,h3,h4 {
+h5,h6,h2,h3,h4 {
   background-color: rgba(236, 209, 88, 0.733);
 }
 
@@ -18,27 +18,32 @@ button {
 
 #titulo {
   font-size: 100px;
-  background: rgba(241, 210, 32, 0.76);
-}
-
-.email {
-  background-color: rgba(241, 210, 32, 0.76);
-}
+  }
 
 body {
   background-image: url(https://lh3.googleusercontent.com/p/AF1QipMHc8mncQpSj-JGiIYZsqJfMc-FibnNjWL36GOK=s1360-w1360-h1020);
   background-size: cover;
   background-position: center;
-  color: #fff;
 }
   
 header {
   border-bottom: 2px solid white;
   margin-bottom: 10px;
+  background: rgb(0,0,0, 0.5);
+}
+.login{
+  background-color : white;
+  
 }
 
 .nav-bar {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
+  background: rgba(221, 220, 220, 0.5);
+}
+
+.email{
+  background: rgba(221, 220, 220, 0.5);
+  padding: 10px;
 }
 
 .titulo2{
@@ -63,15 +68,10 @@ header {
 
 }
 
-.regua{
-  display: block;
-  padding: 0;
-  margin: 10px;
-  width: 100%;
-  height: 2px;
-  background-color: #ddd;
-}
-
 div{
   margin-bottom: 10px;
+}
+
+.titulo-1{
+  
 }
